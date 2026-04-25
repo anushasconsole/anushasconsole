@@ -7,7 +7,7 @@
 ## 🌙 About Me
 
 * 🎓 3rd Year AI/ML Student
-* 💻 c++
+* 💻 C++
 * 🐍 Learning Python for AI/ML
 * ⚡ Love building real-world projects
 * 🐱 Cat Person
@@ -32,13 +32,7 @@ Tools: Git, GitHub, Postman
 * 📊 RAG System
 * 🌐 Full Stack Development
 
----
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anushasconsole&show_icons=true&theme=tokyonight"/>
-</p>
 
 ---
 
