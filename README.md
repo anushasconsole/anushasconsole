@@ -17,11 +17,11 @@
 ## 💻 Tech Stack
 
 ```cpp
-Languages: C++, Python , Java 
+Languages: C++, Python
 Frontend: React, HTML, CSS
 Backend: Node.js, Express
-Database: MongoDB
-Tools: Git, GitHub
+Database: MongoDB , Postgre SQL , MySQL 
+Tools: Git, GitHub, Docker, Kubernates, Jenkins, 
 ```
 
 ---
