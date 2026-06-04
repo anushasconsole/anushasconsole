@@ -6,10 +6,10 @@
 
 ## 🌙 About Me
 
-* 3rd Year CSE AI/ML Student
+* Pre final Year CSE AI/ML Student
 * C++
 * Learning Python for AI/ML
-* Love building real-world projects
+* building real-world projects
 * Cat Person
 
 ---
@@ -28,9 +28,10 @@ Tools: Git, GitHub, Docker, Kubernates, Jenkins,
 
 ## 🐾 Currently Working On
 
-* 🤖 AI/ML Projects
-* 📊 RAG System
-* 🌐 Full Stack Development
+* AI/ML Projects
+* RAG System
+* Full Stack Development
+* LLM 
 
 
 
