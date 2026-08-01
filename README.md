@@ -6,9 +6,9 @@
 
 ## 🌙 About Me
 
-* Pre final Year CSE AI/ML Student
+* Final Year CSE AI/ML Student
 * C++
-* Learning Python for AI/ML
+* ML for DataScience
 * building real-world projects
 * Cat Person
 
